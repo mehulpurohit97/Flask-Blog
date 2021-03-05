@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_uri" :	"mysql+pymysql://root:@localhost/flaskblog",
+		"prod_uri"	:	"mysql+pymysql://root:@localhost/flaskblog",
+		"fb_url"	:	"https://www.facebook.com",
+		"tw_url"	:	"https://www.twitter.com",
+		"gh_url"	:	"https://www.github.com/mehulpurohit97",
+		"blog_title"	:	"Mehul Purohit",
+		"no_of_post_per_page"	:	2,
+		"login_img"	:	"avatar.png",
+		"admin_username"	:	"mehul",
+		"admin_password"	:	"mehul@123",
+		"upload_location"	:	"/home/software/mehul/flask-blog/static/img"
+	}
+}
